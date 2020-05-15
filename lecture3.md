@@ -96,7 +96,7 @@ main()
 5) ``main()`` больше не содержит выражений, поэтому тоже удаляется из стэка.
 <img alt="Упрощенная модель EventLoop" src="https://github.com/Geekbrains-Frontend-Level-2/lectures/blob/master/images/6.jpg" width="500" />
 
-6) Так как стэк пуст, браузер может посмотреть на ``Message Queue``, и если там есть выражения, то поместить их в стэк. Там находится наш коллбэк. Он и помещается в стэк. 
+6) Так как стэк пуст, браузер может посмотреть на ``Message Queue``, и если там есть выражения, то поместит их в стэк. Там находится наш коллбэк. Он и помещается в стэк. 
 Важно, что ``Message Queue`` начинает слушать ТОЛЬКО ЕСЛИ СТЭК ПУСТОЙ!
 <img alt="Упрощенная модель EventLoop" src="https://github.com/Geekbrains-Frontend-Level-2/lectures/blob/master/images/7.jpg" width="500" />
 
