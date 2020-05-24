@@ -2,11 +2,11 @@
 
 Можно посмотреть пример в записи вебинара: [https://geekbrains.ru/lessons/66069](https://geekbrains.ru/lessons/66069)
 
-- [Введение в регулярные выражения](https://github.com/Geekbrains-Frontend-Level-2/lectures/blob/master/lecture1.md#введение-в-регулярные-выражения)
-- [Скобочная группа](https://github.com/Geekbrains-Frontend-Level-2/lectures/blob/master/lecture1.md#скобочная-группа)
-- [Номер группы](https://github.com/Geekbrains-Frontend-Level-2/lectures/blob/master/lecture1.md#номер-группы)
-- [Replace](https://github.com/Geekbrains-Frontend-Level-2/lectures/blob/master/lecture1.md#replace)
-- [Полезные ссылки](https://github.com/Geekbrains-Frontend-Level-2/lectures/blob/master/lecture1.md#полезные-ссылки)
+- [Введение в регулярные выражения](https://github.com/Geekbrains-Frontend-Level-2/lectures/blob/master/lecture4.md#введение-в-регулярные-выражения)
+- [Скобочная группа](https://github.com/Geekbrains-Frontend-Level-2/lectures/blob/master/lecture4.md#скобочная-группа)
+- [Номер группы](https://github.com/Geekbrains-Frontend-Level-2/lectures/blob/master/lecture4.md#номер-группы)
+- [Replace](https://github.com/Geekbrains-Frontend-Level-2/lectures/blob/master/lecture4.md#replace)
+- [Полезные ссылки](https://github.com/Geekbrains-Frontend-Level-2/lectures/blob/master/lecture4.md#полезные-ссылки)
 
 ## Введение в регулярные выражения
 Что такое вообще регулярные выражения, и для чего они нужны?
