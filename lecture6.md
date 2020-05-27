@@ -407,6 +407,7 @@ rules: [
   },
   ...
 ]
+```
 
 Используя такую конфигурацию, мы можем начать пользоваться однофайловыми компонентами!
 Пример полного конфига можно взять [здесь](https://github.com/Geekbrains-Frontend-Level-2/ZaitsevDmitry/blob/lesson6/webpack.config.js)
