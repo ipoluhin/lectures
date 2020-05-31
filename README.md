@@ -9,3 +9,4 @@
 - [Лекция 4](https://github.com/Geekbrains-Frontend-Level-2/lectures/blob/master/lecture4.md)
 - [Лекция 5](https://github.com/Geekbrains-Frontend-Level-2/lectures/blob/master/lecture5.md)
 - [Лекция 6](https://github.com/Geekbrains-Frontend-Level-2/lectures/blob/master/lecture6.md)
+- [Лекция 7](https://github.com/Geekbrains-Frontend-Level-2/lectures/blob/master/lecture7.md)
