@@ -1,4 +1,4 @@
-# Лекция 6
+# Лекция 7
 
 Можно посмотреть пример в записи вебинара: [https://geekbrains.ru/lessons/66072](https://geekbrains.ru/lessons/66072)
 
